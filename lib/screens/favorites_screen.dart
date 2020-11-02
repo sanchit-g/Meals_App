@@ -4,7 +4,7 @@ class FavoritesScreen extends StatelessWidget {
   @override
   Widget build(BuildContext context) {
     return Center(
-      child: Text('The Favorites is Ashi'),
+      child: Text('This feature is under development'),
     );
   }
 }
